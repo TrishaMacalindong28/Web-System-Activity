@@ -1,7 +1,7 @@
 {
   "name": "pang-tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "<DOCTYPE html> \r <html lang=\"en\">\r <head>\r     <meta charset=\"UTF-8\">\r     <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r     <title> WEB</title>\r </head>\r <body>\r <main>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,16 @@
     "@tailwindcss/cli": "^4.1.14",
     "tailwind": "^4.0.0",
     "tailwindcss": "^4.1.14"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrishaMacalindong28/Web-System-Activity.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TrishaMacalindong28/Web-System-Activity/issues"
+  },
+  "homepage": "https://github.com/TrishaMacalindong28/Web-System-Activity#readme"
 }
